@@ -3,7 +3,7 @@ var path = require('path');
 var app = express();
 
 
-var PORT = 3000;
+const PORT = process.env.PORT || 3000
 
 
 require(path.join(__dirname, './app/routing/apiRoutes'))(app);
