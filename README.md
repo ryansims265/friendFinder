@@ -2,7 +2,7 @@ Hi there and welcome to The Boys superhero finder!
 
 Using our simple application you can easily find out which superhero from Amazons The Boys you are!
 
-Step 1: Simple navigate to the heroku-deployed site: 
+Step 1: Simple navigate to the heroku-deployed site: https://theboystest.herokuapp.com/
 
 Step 2: Click begin the test 
 
